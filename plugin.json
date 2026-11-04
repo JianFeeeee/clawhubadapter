@@ -9,6 +9,7 @@
     "linux",
     "darwin"
   ],
+  "repository": "https://github.com/JianFeeeee/clawhubadapter",
   "sdk": "1.4.0",
   "tags": [
     "clawhub",

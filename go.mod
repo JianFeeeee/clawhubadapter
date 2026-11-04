@@ -20,4 +20,5 @@ require github.com/JianFeeeee/hologramagentsdk v1.4.0
 
 
 
+
 replace github.com/JianFeeeee/hologramagentsdk => /root/.homeagent/hmapdev/sdk/v1.4.0
