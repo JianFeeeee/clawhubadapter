@@ -1,0 +1,21 @@
+{
+  "author": "HologramAgent",
+  "description": "把 ClawHub / OpenClaw 生态的插件与技能接入 HologramAgent：发现、安装、起 sidecar、注册工具与通道",
+  "entry": "plugin.bin",
+  "name": "clawhubadapter",
+  "name_en": "clawhubadapter",
+  "name_zh": "ClawHub 适配器",
+  "platforms": [
+    "linux",
+    "darwin"
+  ],
+  "sdk": "1.4.0",
+  "tags": [
+    "clawhub",
+    "openclaw",
+    "compat",
+    "adapter",
+    "skill"
+  ],
+  "version": "1.0.0"
+}

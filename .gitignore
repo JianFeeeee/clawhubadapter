@@ -1,0 +1,10 @@
+# 产物：不入库
+# 实测源码 3MB、产物 1.9G —— 后者进了仓库就再也删不干净
+/build/
+/dist/
+*.hmap
+/node_modules/
+
+# 运行期数据
+/rawfile/*
+!/rawfile/.gitkeep

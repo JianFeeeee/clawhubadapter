@@ -1,0 +1,20 @@
+{
+  "name": "clawhubadapter",
+  "name_zh": "ClawHub 适配器",
+  "name_en": "clawhubadapter",
+  "version": "1.0.0",
+  "description": "把 ClawHub / OpenClaw 生态的插件与技能接入 HologramAgent：发现、安装、起 sidecar、注册工具与通道",
+  "author": "HologramAgent",
+  "entry": "plugin.bin",
+  "sdk": "1.4.0",
+  "tags": [
+    "clawhub",
+    "openclaw",
+    "compat",
+    "adapter",
+    "skill"
+  ],
+  "targets": "linux/amd64,darwin/amd64",
+  "rawfiles": [],
+  "repo": "https://github.com/JianFeeeee/clawhubadapter"
+}
